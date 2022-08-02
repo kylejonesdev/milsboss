@@ -1,5 +1,3 @@
-# milsboss
-Software to control a Milsbo greenhouse cabinet
 <div id="top"></div>
 
 <!-- PROJECT HERO -->
